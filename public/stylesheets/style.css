@@ -2,6 +2,34 @@ body {
   
 }
 
+#mainNav{
+	background-color: #333;
+}
+
+#primarySection{
+	background-color: forestgreen;
+}
+
+section#portfolio{
+	background-color: cornsilk;
+}
+
+section#contact{
+	background-color: floralwhite;
+}
+
+section#about{
+	background-color: cornflowerblue;
+}	
+
+#aboveFooter{
+	background-color: firebrick;
+}
+
+#belowFooter{
+	background-color: black;
+}
+
 a {
   color: #00B7FF;
 }
