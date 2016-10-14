@@ -30,6 +30,26 @@ section#about{
 	background-color: black;
 }
 
+#primaryStar:after{
+	background-color: forestgreen;
+	color: yellowgreen;
+}
+
+#portfolioStar:after{
+	background-color:cornsilk;
+	color:burlywood;
+}
+
+#aboutStar:after{
+	background-color: cornflowerblue;
+	color: darkslateblue;
+}
+
+#contactStar:after{
+	background-color: floralwhite;
+	color: burlywood;
+}
+
 a {
   color: #00B7FF;
 }
